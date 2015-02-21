@@ -18,4 +18,5 @@ A picture of someone playing the didgeridoo
 
 I hate this video, but can't get the video I want to work.  It would be Aventura though.  I like Bachata:
 
-<iframe width="640" height="360" src="//www.youtube.com/embed/dfCd2eQfueY?list=UUw7F4bJbtGwORQwMBxlGb6w" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="//www.youtube.com/embed/dfCd2eQfueY?list=UUw7F4bJbtGwORQwMBxlGb6w" frameborder="0" allowfullscreen>
+  </iframe>
