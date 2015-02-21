@@ -4,7 +4,7 @@ My name is Porter Reim.
 
 I run Tulane University's Bicycle Help Desk!
 
-Poster! [alt text](http://i.imgur.com/7qhwNV5.png)
+Poster![alt text](http://i.imgur.com/7qhwNV5.png)
 
 * [Bastards Book of Regular Expressions](http://regex.bastardsbook.com/)  - A free ebook on how to use regular expressions for everyday informational purposes
 
