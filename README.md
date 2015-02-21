@@ -10,7 +10,7 @@ I run Tulane University's Bicycle Help Desk!
 
 * [Bike Help Facebook Page](http://facebook.com/groups/bikehelp) - Bike Help's Schedule
 
-* ![alt text](http://i.imgur.com/pwlAgqk.jpg "My Girlfriend") - She's super smart, interesting, and a babe.
+* ![alt text](http://i.imgur.com/F2YcFwB.jpg "My Girlfriend") - She's super smart, interesting, and a babe.
 
 A picture of someone playing the didgeridoo
 
